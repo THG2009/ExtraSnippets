@@ -19,4 +19,4 @@ This adds many snippets for your add-ons. Some of the snippets are basic compone
 
 ## Help
 
-If you need any help or want to suggest a snippet, please submit a Github issue.
+If you need any help or want to suggest a snippet, please submit a Github issue [here](https://github.com/THG2009/ExtraSnippets/issues).

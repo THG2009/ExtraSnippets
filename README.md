@@ -12,6 +12,7 @@ This adds many snippets for your add-ons. Some of the snippets are basic compone
    "minecraft:attack": {
     "damage": 5
    }, <--
+   Snippet Intellisense activates here
   }
 }
 ```
